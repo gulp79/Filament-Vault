@@ -40,7 +40,7 @@ jobs:
         env:
             PYTHONPATH: src
         run: |
-          python -m nuitka --standalone --onefile --assume-yes-for-downloads --enable-plugin=pyside6 --windows-console-mode=disable --include-package=filament_vault --output-filename=FilamentVault.exe --output-dir=dist src/filament_vault/__main__.py
+          python -m nuitka --standalone --onefile --assume-yes-for-downloads --enable-plugin=pyside6 --windows-console-mode=disable --include-package=filament_vault --output-filename=FilamentVault.exe --output-dir=dist src/filament_vault
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
