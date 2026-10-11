@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/v/release/gulp79/Filament-Vault?include_prereleases)](https://github.com/gulp79/Filament-Vault/releases/latest)  ![Total Downloads](https://img.shields.io/github/downloads/gulp79/Filament-Vault/total)  ![Latest Downloads](https://img.shields.io/github/downloads/gulp79/Filament-Vault/latest/total)
+
 # Filament Vault
 
 **Filament Vault** is an advanced desktop inventory explorer for Bambu Studio 3D printer filament inventories.
