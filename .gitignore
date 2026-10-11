@@ -28,6 +28,7 @@ dist/
 *.exe
 nuitka-crash-report.xml
 FilamentVault.exe
+build_nuitka.bat
 
 # Nuitka onefile temp
 *.onefile-build/
